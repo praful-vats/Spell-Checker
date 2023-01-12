@@ -39,4 +39,5 @@ Contributing
 Feel free to submit pull requests and issues on the Github page.
 
 Authors
+
 Praful Vats
